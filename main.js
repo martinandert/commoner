@@ -15,3 +15,4 @@ defCallback("version");
 defCallback("resolve");
 defCallback("process");
 defCallback("ignore");
+defCallback("done");
